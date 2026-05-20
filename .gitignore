@@ -1,0 +1,24 @@
+## Build / derived data
+build/
+DerivedData/
+.build/
+
+## Xcode user state
+xcuserdata/
+*.xcuserstate
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.moved-aside
+*.xccheckout
+*.xcscmblueprint
+
+## Swift Package Manager
+.swiftpm/
+Packages/
+Package.pins
+Package.resolved
+
+## macOS
+.DS_Store
